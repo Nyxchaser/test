@@ -11,3 +11,9 @@ print(f"can you convert {mess} to text while solving the conflict?")
 
 answer = "01101000 01101101 01110000 01101000"
 print(answer)
+
+mess = "Who would have thought conflicts are so easy to create"
+print(mess)
+
+mess_cleaner = "You think you're funny"
+print(mess_cleaner)
