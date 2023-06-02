@@ -1,3 +1,7 @@
+testing rebasing instead of merging
+
 Will this work?
+
+I think it will.
 
 Let's try one more commit.
